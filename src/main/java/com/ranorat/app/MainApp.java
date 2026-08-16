@@ -35,7 +35,7 @@ public class MainApp extends Application {
     // アプリケーション情報
     private static final String APP_NAME = "ツインビデオデュエット2Pic";
     private static final String APP_VERSION = "v1.0.0";
-    private static final String APP_COPYRIGHT = "JTwinVideoDuet2Pic Copyright c 2026 ranorat";
+    private static final String APP_COPYRIGHT = "JTwinVideoDuet2Pic " + APP_VERSION + " | Copyright c 2026 ranorat";
 
     @Override
     public void start(Stage primaryStage) {
